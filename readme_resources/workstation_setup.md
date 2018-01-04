@@ -1,4 +1,4 @@
-# # General Workstation Setup
+# General Workstation Setup
 Before you dive into the individual labs and modules, and their pre-reqs, take time to review this page for general setups steps and assumptions related to software to be installed, and any suggested configuration details.  This is not intended to be a comprehensive installation guide for these tools, or general workstation prep, but rather provide guidance and links to resources that are already available on DevNet and other locations.  
 
 In this guide you will find recommendations on tools and applications to use, however there are many ways to accomplish anything in IT.  If you are already familiar with another method, feel free to use that as long as the end result meets the fundamental requirement.  

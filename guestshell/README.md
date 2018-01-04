@@ -1,11 +1,11 @@
 # Linux at the Edge: Introduction to Guest Shell
 
 ## "Gitting" the Code
-All of the code and examples for this lesson is located in the `netprog_basics/application_hosting/guestshell` directory.  Clone and access it with the following commands:
+All of the code and examples for this lesson is located in the `app_hosting_code_samples/guestshell`directory.  Clone and access it with the following commands:
 
 ```bash
-git clone https://github.com/CiscoDevNet/netprog_basics
-cd netprog_basics/application_hosting/guestshell
+git clone https://github.com/CiscoDevNet/app_hosting_code_samples
+cd app_hosting_code_samples/guestshell
 ```
 
 ## Local Workstation Setup

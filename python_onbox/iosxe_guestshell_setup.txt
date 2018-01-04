@@ -49,4 +49,4 @@ show app-hosting list
 ! ***** Step 5 *********
 ! Install git within Guest Shell and Clone Code
 guestshell run sudo yum install git
-guestshell run git clone https://github.com/CiscoDevNet/netprog_basics /flash/netprog_basics
+guestshell run git clone https://github.com/CiscoDevNet/app_hosting_code_samples

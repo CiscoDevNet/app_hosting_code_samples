@@ -4,8 +4,8 @@
 All of the code and examples for this lesson is located in the `netprog_basics/application_hosting/python_onbox` directory.  Clone and access it with the following commands:
 
 ```bash
-git clone https://github.com/CiscoDevNet/netprog_basics
-cd netprog_basics/application_hosting/python_onbox
+git clone https://github.com/CiscoDevNet/app_hosting_code_samples
+cd app_hosting_code_samples/python_onbox
 ```
 
 ## Local Workstation Setup
@@ -63,5 +63,5 @@ With Guest Shell setup, now clone the code for the labs into Guest Shell in your
 
 ```
 ! From Enable mode on your Sandbox Device
-guestshell run git clone https://github.com/CiscoDevNet/netprog_basics /flash/netprog_basics    
+guestshell run git clone https://github.com/CiscoDevNet/app_hosting_code_samples    
 ```
